@@ -21,3 +21,5 @@ phases:
 artifacts:
   files:
     - '**/*'
+  name: s3-code-pipeline-artifact
+  discard-paths: no
